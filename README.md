@@ -2,7 +2,7 @@
 
 <div style="border-radius:10%;"><img width="180" align="right" src="https://github.com/Akarys42/akarys42/raw/main/dr_akarys.jpg"></div>
 
-I'm Matteo, a student a [Polytech Marseille, France](https://polytech.univ-amu.fr/), who loves programming!
+I'm Matteo, future student at [Polytech Marseille, France](https://polytech.univ-amu.fr/), who loves programming!
 
 I'm working with **Python, Rust, Docker and Kubernetes** on my past time, for both my [personal projects](https://github.com/Akarys42?tqb=repositories) and at [Python Discord](https://pythondiscord.org) as a **Core Developer** and **DevOps** member. In this online community, we hope to foster a friendly environment for both younger and older Python programmers to get help and discuss.
 
