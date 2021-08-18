@@ -11,8 +11,8 @@ Inspired by the wondeful [Ben Eater](https://www.youtube.com/channel/UCS0N5baNlQ
 If you want to have a chat, [**email me!**](mailto:matteobertucci2004@gmail.com)
  
 <div align="center">
-  <img vertical-align="middle" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/matteo-bertucci-55a5621a9">
-  <img vertical-align="middle" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white" href="https://discord.gg/python">
+  <a href="https://www.linkedin.com/in/matteo-bertucci-55a5621a9"><img vertical-align="middle" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+  <a href="https://discord.gg/python"><img vertical-align="middle" src="https://img.shields.io/badge/Discord-%237289DA.svg?&style=for-the-badge&logo=discord&logoColor=white"></a>
 </div>
   
  &nbsp; 
