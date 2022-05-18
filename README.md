@@ -20,7 +20,7 @@ If you want to have a chat, [**email me!**](mailto:matteobertucci2004@gmail.com)
  &nbsp; 
   
 <div align="center">
-  <img vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=akarys42&count_private=true&show_icon=true&theme=radical">
-  <img vertical-align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akarys42&theme=radical&hide=C++&layout=compact">
+  <img vertical-align="middle" src="https://github-readme-stats.vercel.app/api?username=akarys42&count_private=true&show_icon=true&theme=radical#">
+  <img vertical-align="middle" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akarys42&theme=radical&hide=C++&layout=compact#">
 </div>
 
