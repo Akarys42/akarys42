@@ -1,14 +1,10 @@
-### Hi there, I'm Amber! 👋
+### Hi there, I'm Ambre! 👋
 
-<div style="border-radius:10%;"><img width="180" align="right" src="https://github.com/Akarys42/akarys42/raw/main/dr_akarys.jpg"></div>
-
-I'm Amber, student at [Polytech Marseille, France](https://polytech.univ-amu.fr/) in the PEIP2 course, who loves programming and engineering!
+I'm Ambre, student at [Polytech Marseille, France](https://polytech.univ-amu.fr/) in the PEIP2 course, fan of programming, devops and engineering!
 
 I'm currently working with **Python, Rust, Docker and Kubernetes**.
 
-Inspired by the wondeful [Ben Eater](https://www.youtube.com/channel/UCS0N5baNlQWJCUrhCEo8WlA), I love everything more or less close to electronics and low-level programming and hope to make it my work one day!
-
-If you want to have a chat, [**email me!**](mailto:amber@akarys.me)
+If you want to have a chat, [**email me!**](mailto:ambre@akarys.me)
  
 <div align="center">
   <a href="https://www.linkedin.com/in/Amber[d]-Bertucci-55a5621a9"><img vertical-align="middle" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
